@@ -37,8 +37,3 @@ A organização dos arquivos segue a lógica de desenvolvimento do trabalho acad
 
 Trabalho desenvolvido por **Anne**.
 
----
-
-## ⚠️ Observações
-
-Este material possui **finalidade exclusivamente acadêmica**. A reprodução total ou parcial do conteúdo deve ser realizada com a devida citação da autoria.
